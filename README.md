@@ -5,7 +5,7 @@
 **A full-stack URL shortener with click analytics.**
 Shorten long URLs, set custom aliases and expiry dates, and see who clicks your links: by day, browser, device, referrer and country.
 
-**[🚀 Live Demo](#-live-demo)** · **[✨ Features](#-features)** · **[📸 Screenshots](#-screenshots)** · **[⚙️ Getting Started](#️-getting-started)** · **[📡 API](#-api-reference)**
+**[🚀 Live Demo](https://my-project-omega-fawn-72.vercel.app/)** · **[✨ Features](#-features)** · **[📸 Screenshots](#-screenshots)** · **[⚙️ Getting Started](#️-getting-started)** · **[📡 API](#-api-reference)**
 
 ![Node.js](https://img.shields.io/badge/Node.js-339933?style=flat&logo=nodedotjs&logoColor=white)
 ![Express](https://img.shields.io/badge/Express-000000?style=flat&logo=express&logoColor=white)
@@ -19,13 +19,6 @@ Shorten long URLs, set custom aliases and expiry dates, and see who clicks your 
 </div>
 
 ---
-
-## 🚀 Live Demo
-
-| | Link |
-|---|---|
-| **Frontend** | _Coming soon_ |
-| **API** | _Coming soon_ |
 
 <!-- After deploying, replace "Coming soon" with your links, e.g.
 | **Frontend** | https://linkify.vercel.app |
